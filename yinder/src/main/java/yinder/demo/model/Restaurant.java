@@ -13,8 +13,8 @@ public class Restaurant {
     @Column(name = "restaurant_name", nullable = false)
     private String restaurant_name;
 
-    @Column(name = "restaurant_type", nullable = false)
-    private String restaurant_type;
+    @Column(name = "category", nullable = false)
+    private String category;
 
     @Column(name = "location", nullable = false)
     private String location;
