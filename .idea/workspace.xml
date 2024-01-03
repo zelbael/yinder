@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e107527d-f487-4875-bcee-a4987e96c14f" name="Changes" comment="" />
+    <list default="true" id="e107527d-f487-4875-bcee-a4987e96c14f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/YinderApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/controller/RestaurantController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/model/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/repository/RestaurantRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/service/RestaurantService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/src/test/java/yinder/demo/YinderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/YinderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/controller/RestaurantController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/model/Restaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/repository/RestaurantRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/service/RestaurantService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/service/UserService.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +64,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -42,14 +76,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Workspace/yinder&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;trusted.hosts&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/Workspace/yinder-app",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "trusted.hosts"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="YinderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="yinder.demo.YinderApplication" />
