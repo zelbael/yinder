@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e107527d-f487-4875-bcee-a4987e96c14f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/controller/BusinessesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/service/BusinessesService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/controller/RestaurantController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/Businesses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/repository/RestaurantRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/repository/BusinessRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/service/RestaurantService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/controller/RestaurantController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/Restaurant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/repository/RestaurantRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/service/RestaurantService.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e107527d-f487-4875-bcee-a4987e96c14f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

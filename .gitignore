@@ -56,3 +56,4 @@ target/
 # Custom exclusions
 env.properties
 server/src/main/resources/application.properties
+YELP_API_KEY=Ufxc78S8tnToAcVkOJ2Yvox939lPXZcJKD2dxTAb8AE2v5U-akbPyV4VsTw4KjmHJRP_9k3jnBS3UEBeNTiqjWjl6PuwhX0kVYI5JRvI5PfyTgL_AZo566jZqXV1ZXYx
