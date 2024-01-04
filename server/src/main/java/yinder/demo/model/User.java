@@ -1,4 +1,5 @@
 package yinder.demo.model;
+
 import jakarta.persistence.*;
 import lombok.Data;
 
@@ -28,9 +29,9 @@ public class User {
 
     @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     @JoinTable(
-            name = "user_restaurant",
+            name = "user_businesses",
             joinColumns = @JoinColumn(name = "user_id"),
-            inverseJoinColumns = @JoinColumn(name = "restaurant_id")
+            inverseJoinColumns = @JoinColumn(name = "businesses_id")
     )
-    private List<Restaurant> restaurants = new ArrayList<>();
+    private List<Businesses> businesses = new ArrayList<>();
 }

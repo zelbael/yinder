@@ -5,40 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e107527d-f487-4875-bcee-a4987e96c14f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/controller/BusinessesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/service/BusinessesService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/YinderApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/controller/RestaurantController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/model/Restaurant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/repository/RestaurantRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/service/RestaurantService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/java/yinder/demo/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/src/test/java/yinder/demo/YinderApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/YinderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/controller/RestaurantController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/model/Restaurant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/repository/RestaurantRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/service/RestaurantService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yinder/target/classes/yinder/demo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/controller/RestaurantController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/Businesses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/repository/RestaurantRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/yinder/demo/repository/BusinessRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/yinder/demo/service/RestaurantService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/controller/RestaurantController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/Restaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/yinder/demo/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/repository/RestaurantRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/classes/yinder/demo/service/RestaurantService.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/Workspace/yinder-app",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
